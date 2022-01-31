@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PremCherukulu
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack and BLockhain for mainly Dapps
+- 🌱 I’m currently learning Full Stack and BLockhain for mainly Dapps with SmartContracts on Ethereum. 
 - 💞️ I’m looking to collaborate on building APIs and any web apps
 - 📫 How to reach me premkumar666@gmail.com
 
